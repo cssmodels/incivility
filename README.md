@@ -1,6 +1,4 @@
-# The Rise and Drivers of Elite Political Incivility Across Western Democracies
-
-Code for Törnberg, P. & Chueri, J., "The Rise and Drivers of Elite Political Incivility Across Western Democracies."
+# Elite Political Incivility Across Western Democracies
 
 ## Pipeline
 
